@@ -1,0 +1,23 @@
+{
+  "name": "book-management-record",
+  "version": "1.0.0",
+  "description": "library management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+     "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshisharmagithub/book-management-record.git"
+  },
+  "author": "Himanshi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshisharmagithub/book-management-record/issues"
+  },
+  "homepage": "https://github.com/himanshisharmagithub/book-management-record#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
